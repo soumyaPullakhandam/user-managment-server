@@ -1,0 +1,9 @@
+.idea
+venv
+__pycache__
+src/docs
+.pytest_cache
+src/tests
+sendgrid.env
+src/app.env
+.vscode
